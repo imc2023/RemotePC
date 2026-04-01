@@ -1,4 +1,4 @@
-# RemotePC v2.0 🔐
+# RemotePC 🔐
 > Control your computer via a browser · Uses only the standard Python library · Cloudflare Tunnel
 
 ## What it can do
